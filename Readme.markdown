@@ -1,7 +1,13 @@
-# US Map #
+# Home Page
+## Hi, My Name is Will Conn
 
-A Javascript map of the United States built with SVG/VML by using Raphael as a jQuery plugin.
+I am a Senior at the University of Missouri, and these are some important pieces of information about me and my life.
 
-You can configure the styles of the states and labels for the default, per state, and hover. You can bind to it through jQuery to capture the events of when users click on states.
+Navigate my website using these links
+
+* [Academics](./academics.md)
+* [Out of School Hobbies](./hobbiesschool.md)
+* [In School Hobbies](./hobbies.md)
+* [Years of Love](./love.md)
 
  
